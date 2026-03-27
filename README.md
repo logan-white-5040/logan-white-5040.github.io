@@ -1,1 +1,1 @@
-# logan-white-5040.github.io
+A project to document a fiber arts project I did, while learning about HTML, CSS, and JS.
